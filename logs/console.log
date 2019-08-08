@@ -1,0 +1,76 @@
+2019-08-08 16:59:46 INFO  PropertiesCache:22 - java.io.BufferedInputStream@2f7c7260
+2019-08-08 16:59:46 INFO  PropertiesCache:23 - Read all the configurations from  file
+2019-08-08 16:59:46 INFO  ExtentManager:92 - Directory already exists: C:\Users\Jarvis\Downloads\HonestFoodCompanySelenium\TestReport
+2019-08-08 16:59:46 INFO  ExtentManager:73 - ExtentReport Path for WINDOWS: C:\Users\Jarvis\Downloads\HonestFoodCompanySelenium\TestReport
+
+2019-08-08 16:59:46 INFO  TestBase:54 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-08-08 16:59:46 INFO  TestBase:70 -  =================================================== 
+2019-08-08 16:59:46 INFO  TestBase:71 - Url is :: https://clubkitchen.at
+2019-08-08 16:59:46 INFO  TestBase:72 -  =================================================== 
+2019-08-08 17:00:00 INFO  TestListener:33 - Test Suite started!
+2019-08-08 17:00:02 INFO  TestBase:115 - Testcase name is :::::: mamacitaAddtoCart
+2019-08-08 17:00:02 INFO  TestBase:116 - mamacitaAddtoCart Started ::::
+2019-08-08 17:00:02 INFO  TestListener:77 - mamacitaAddtoCart started!
+2019-08-08 17:00:02 INFO  TestBase:103 - Element is displayed Agree cookies button
+2019-08-08 17:00:38 INFO  TestListener:89 - Test casemamacitaAddtoCart passed!
+2019-08-08 17:00:38 INFO  TestBase:124 - Testcase execution completed :::::: mamacitaAddtoCart
+2019-08-08 17:00:38 INFO  TestBase:107 - Tests Ended from class :::::MamacitaCartTest
+2019-08-08 17:00:38 INFO  TestListener:60 - Congrats, All test cases are passed
+2019-08-08 17:00:38 INFO  TestListener:62 - Test Suite is ending!
+2019-08-08 17:00:38 INFO  TestBase:131 - Logger Info:: Inside suiteEndReached Method
+2019-08-08 17:00:38 INFO  TestBase:132 - Suite ended
+2019-08-08 17:02:49 INFO  PropertiesCache:22 - java.io.BufferedInputStream@2d209079
+2019-08-08 17:02:49 INFO  PropertiesCache:23 - Read all the configurations from  file
+2019-08-08 17:02:49 INFO  ExtentManager:92 - Directory already exists: C:\Users\Jarvis\Downloads\HonestFoodCompanySelenium\TestReport
+2019-08-08 17:02:49 INFO  ExtentManager:73 - ExtentReport Path for WINDOWS: C:\Users\Jarvis\Downloads\HonestFoodCompanySelenium\TestReport
+
+2019-08-08 17:02:49 INFO  TestBase:54 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-08-08 17:02:49 INFO  TestBase:70 -  =================================================== 
+2019-08-08 17:02:49 INFO  TestBase:71 - Url is :: https://clubkitchen.at
+2019-08-08 17:02:49 INFO  TestBase:72 -  =================================================== 
+2019-08-08 17:02:56 INFO  TestListener:33 - Test Suite started!
+2019-08-08 17:02:57 INFO  TestBase:115 - Testcase name is :::::: mamacitaAddtoCart
+2019-08-08 17:02:57 INFO  TestBase:116 - mamacitaAddtoCart Started ::::
+2019-08-08 17:02:57 INFO  TestListener:77 - mamacitaAddtoCart started!
+2019-08-08 17:02:57 INFO  TestBase:103 - Element is displayed Agree cookies button
+2019-08-08 17:03:09 INFO  TestBase:49 - Exception occured while clicking on To the menu buttonorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class1='btn club-home-button shop-menu-btn']"}
+  (Session info: chrome=75.0.3770.142)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.140 (2d9f97485c7b07dc18a74666574f19176731995c-refs/branch-heads/3770@{#1155}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir7536_6255}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51567}, acceptInsecureCerts=false, browserVersion=75.0.3770.142, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: a9193e26537f99c9340c0a442d0a0464
+*** Element info: {Using=xpath, value=//a[@class1='btn club-home-button shop-menu-btn']}
+2019-08-08 17:03:20 INFO  TestBase:58 - Exception occured while entering delivery addressorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.142)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.140 (2d9f97485c7b07dc18a74666574f19176731995c-refs/branch-heads/3770@{#1155}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir7536_6255}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51567}, acceptInsecureCerts=false, browserVersion=75.0.3770.142, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: a9193e26537f99c9340c0a442d0a0464
+2019-08-08 17:03:34 INFO  TestBase:68 - Exception occured while clicking on To the menu search buttonorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.142)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.140 (2d9f97485c7b07dc18a74666574f19176731995c-refs/branch-heads/3770@{#1155}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir7536_6255}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51567}, acceptInsecureCerts=false, browserVersion=75.0.3770.142, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: a9193e26537f99c9340c0a442d0a0464
+2019-08-08 17:03:51 INFO  TestBase:54 - Exception occured while clicking on menu buttonorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@class,'burger-menu btn')]"}
+  (Session info: chrome=75.0.3770.142)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.140 (2d9f97485c7b07dc18a74666574f19176731995c-refs/branch-heads/3770@{#1155}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir7536_6255}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51567}, acceptInsecureCerts=false, browserVersion=75.0.3770.142, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: a9193e26537f99c9340c0a442d0a0464
+*** Element info: {Using=xpath, value=//a[contains(@class,'burger-menu btn')]}
+2019-08-08 17:04:04 INFO  TestBase:64 - Exception occured while clicking on mamacita logo buttonorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@title='Mamacita' and @class = 'navigation--link logo--link  mamacita']"}
+  (Session info: chrome=75.0.3770.142)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.140 (2d9f97485c7b07dc18a74666574f19176731995c-refs/branch-heads/3770@{#1155}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir7536_6255}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51567}, acceptInsecureCerts=false, browserVersion=75.0.3770.142, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: a9193e26537f99c9340c0a442d0a0464
+*** Element info: {Using=xpath, value=//*[@title='Mamacita' and @class = 'navigation--link logo--link  mamacita']}
